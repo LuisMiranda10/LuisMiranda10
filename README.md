@@ -5,8 +5,6 @@
 - ❤️ Love code and technology
 - 🏆 Fun fact: Professional Fifa player, and number 54 of South America in Fifa 22
 
-<br>
-
 ### 📈 GitHub Stats
 <br>
 
