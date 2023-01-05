@@ -4,6 +4,7 @@
 - 🚀 Constantly evolving
 - ❤️ Love code and technology
 - 🏆 Fun fact: Professional Fifa player, and number 54 of South America in Fifa 22
+- 🌐 Team I work: @EletronJun
 
 ### 📈 GitHub Stats
 <br>
