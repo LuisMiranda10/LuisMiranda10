@@ -2,8 +2,7 @@
 
 - 🎓 I'm currently graduating in Software engineering at University of Brasília (UnB)
 - 🚀 Constantly evolving
-- ❤️ Love code and technology
-- 🌐 Team I work: @EletronJun
+- 🌐 Software Developer: @STJ
 
 ### 📈 GitHub Stats
 <br>
