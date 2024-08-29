@@ -1,9 +1,3 @@
-### Hey there, I'm Luis Miranda 👋
-
-- 🎓 I'm currently graduating in Software engineering at University of Brasília (UnB)
-- 🚀 Constantly evolving
-- 🌐 Software Developer: @STJ
-
 ### 📈 GitHub Stats
 <br>
 
@@ -14,8 +8,3 @@
 </div>
   
  ##
-  
-  ### Contacts and Social Media
-
-<div style="display: inline_block"> 
-   <a href = "mailto:luiseduardocarneiro6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
